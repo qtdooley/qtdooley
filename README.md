@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Quinn 👋
 
-<!--
-**qtdooley/qtdooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Cycling Visualization](https://qtdooley.github.io/Tableau/)
+
+## Find me around the web:
+
+- [LinkedIn](https://linkedin.com/in/qtdooley)
+- [email](qtdooley@gmail.com, qtdooley@berkeley.edu)
+
