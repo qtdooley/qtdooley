@@ -9,5 +9,5 @@ Welcome to my GitHub profile!
 ## Find me around the web:
 
 - [LinkedIn](https://linkedin.com/in/qtdooley)
-- [email](qtdooley@gmail.com, qtdooley@berkeley.edu)
+- (qtdooley@gmail.com, qtdooley@berkeley.edu)
 
